@@ -1,5 +1,5 @@
 blinker==1.8.2
-click @ file:///croot/click_1698129812380/work
+click==8.1.7
 Flask @ file:///croot/flask_1716545870149/work
 gunicorn==23.0.0
 importlib-metadata @ file:///croot/importlib_metadata-suite_1704813515092/work
