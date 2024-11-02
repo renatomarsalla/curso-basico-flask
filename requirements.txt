@@ -1,4 +1,4 @@
-blinker @ file:///croot/blinker_1696539051175/work
+blinker==1.8.2
 click @ file:///croot/click_1698129812380/work
 Flask @ file:///croot/flask_1716545870149/work
 gunicorn==23.0.0
